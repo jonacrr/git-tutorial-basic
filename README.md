@@ -7,3 +7,5 @@ Agrego esta linea de texto desde el editor en linea para hacer un Pull desde Git
 Linea que se va agregar a traves de GitHub Desktop
 
 Agrego esta linea de texto desde el editor en linea para demostrar el uso de 'git pull' en GitHub Desktop
+
+Esta linea corresponde al plugin de github en VScode
