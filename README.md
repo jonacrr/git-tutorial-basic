@@ -15,3 +15,4 @@ Esta linea corresponde al plugin de github en VScode
 Cambio a traves de VSCode 02/07/2021
 
 Agrego esta linea de texto desde el editor en linea para hacer un Pull desde VSCode
+Agrego cambio desde github.com 01/08/21
